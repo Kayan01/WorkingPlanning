@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "bdc565cb-5a7c-4ffd-a2a5-68039e7608f7",
+    "FirstName": "Jamie",
+    "LastName": "Lawty",
+    "IsAdmin": "true"
+  },
+  {
+    "Id": "a197d724-6749-46ca-b812-da5f4a62d154",
+    "FirstName": "Agatha",
+    "LastName": "Cholton",
+    "IsAdmin": "false"
+  },
+  {
+    "Id": "668a7210-5036-41c4-9b4f-186a1b470ae1",
+    "FirstName": "Alfredo",
+    "LastName": "Silley",
+    "IsAdmin": "false"
+  },
+  {
+    "Id": "aa16d75b-3950-47bc-ba68-678f6467d90c",
+    "FirstName": "Dmitri",
+    "LastName": "Hazeldine",
+    "IsAdmin": "false"
+  }
+]

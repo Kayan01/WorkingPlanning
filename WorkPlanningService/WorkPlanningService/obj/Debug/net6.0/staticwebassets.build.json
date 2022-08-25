@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "H1Ba5mdh9cL77Ap8y3AZVcdBofzLLm3W2qOh3DKZMlw=",
+  "Source": "WorkPlanningService",
+  "BasePath": "_content/WorkPlanningService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

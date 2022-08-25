@@ -1,0 +1,17 @@
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPlanningServiceInfrastructure\bin\Debug\net6.0\WorkPlanningService.Infrastructure.deps.json
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPlanningServiceInfrastructure\bin\Debug\net6.0\WorkPlanningService.Infrastructure.runtimeconfig.json
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPlanningServiceInfrastructure\bin\Debug\net6.0\WorkPlanningService.Infrastructure.dll
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPlanningServiceInfrastructure\bin\Debug\net6.0\WorkPlanningService.Infrastructure.pdb
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPlanningServiceInfrastructure\bin\Debug\net6.0\WorkPLanningService.Domain.dll
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPlanningServiceInfrastructure\bin\Debug\net6.0\WorkPLanningService.Domain.pdb
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPlanningServiceInfrastructure\obj\Debug\net6.0\WorkPlanningService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPlanningServiceInfrastructure\obj\Debug\net6.0\WorkPlanningService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPlanningServiceInfrastructure\obj\Debug\net6.0\WorkPlanningService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPlanningServiceInfrastructure\obj\Debug\net6.0\WorkPlanningService.Infrastructure.AssemblyInfo.cs
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPlanningServiceInfrastructure\obj\Debug\net6.0\WorkPlanningService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPlanningServiceInfrastructure\obj\Debug\net6.0\WorkPlanningService.Infrastructure.csproj.CopyComplete
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPlanningServiceInfrastructure\obj\Debug\net6.0\WorkPlanningService.Infrastructure.dll
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPlanningServiceInfrastructure\obj\Debug\net6.0\refint\WorkPlanningService.Infrastructure.dll
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPlanningServiceInfrastructure\obj\Debug\net6.0\WorkPlanningService.Infrastructure.pdb
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPlanningServiceInfrastructure\obj\Debug\net6.0\WorkPlanningService.Infrastructure.genruntimeconfig.cache
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPlanningServiceInfrastructure\obj\Debug\net6.0\ref\WorkPlanningService.Infrastructure.dll

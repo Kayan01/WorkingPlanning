@@ -1,0 +1,12 @@
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPLanningService.Domain\bin\Debug\net6.0\WorkPLanningService.Domain.deps.json
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPLanningService.Domain\bin\Debug\net6.0\WorkPLanningService.Domain.dll
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPLanningService.Domain\bin\Debug\net6.0\WorkPLanningService.Domain.pdb
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPLanningService.Domain\obj\Debug\net6.0\WorkPLanningService.Domain.csproj.AssemblyReference.cache
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPLanningService.Domain\obj\Debug\net6.0\WorkPLanningService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPLanningService.Domain\obj\Debug\net6.0\WorkPLanningService.Domain.AssemblyInfoInputs.cache
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPLanningService.Domain\obj\Debug\net6.0\WorkPLanningService.Domain.AssemblyInfo.cs
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPLanningService.Domain\obj\Debug\net6.0\WorkPLanningService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPLanningService.Domain\obj\Debug\net6.0\WorkPLanningService.Domain.dll
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPLanningService.Domain\obj\Debug\net6.0\refint\WorkPLanningService.Domain.dll
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPLanningService.Domain\obj\Debug\net6.0\WorkPLanningService.Domain.pdb
+C:\Users\Charity\source\repos\WorkPlanningService\WorkPLanningService.Domain\obj\Debug\net6.0\ref\WorkPLanningService.Domain.dll
