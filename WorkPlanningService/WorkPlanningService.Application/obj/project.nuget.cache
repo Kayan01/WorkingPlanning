@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o4v5oo0YLAwNgdbZvaT33nqs1V+rEO40l9hqYBpTqPPPExOZ4/WYdvWqM3TSkyGRhljP0+1VC1z8VA9QR9rGDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Charity\\Desktop\\WorkPlanService\\WorkingPlanning\\WorkPlanningService\\WorkPlanningService.Application\\WorkPlanningService.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charity\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Charity\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

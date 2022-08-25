@@ -1,7 +1,11 @@
 ﻿
 using Microsoft.OpenApi.Models;
+using WorkPlanningService.Application.Dto.Mapper;
+using WorkPlanningService.Application.Interfaces;
+using WorkPlanningService.Application.Services;
 using WorkPlanningService.Infrastructure.Context;
 using WorkPlanningService.Infrastructure.Extensions;
+using WorkPlanningService.Infrastructure.Repository;
 using WorkPlanningService.Infrastructure.Seeder;
 
 namespace AccountApi
@@ -19,6 +23,9 @@ namespace AccountApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.RegisterDbContext(Configuration);
+            services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            services.AddScoped<IWokerService, WorkerService>();
+            services.AddAutoMapper(typeof(UserMappings));
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

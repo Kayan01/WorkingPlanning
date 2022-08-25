@@ -1,0 +1,15 @@
+C:\Users\Charity\Desktop\WorkPlanService\WorkingPlanning\WorkPlanningService\WorkPlanningService.Application\bin\Debug\net6.0\WorkPlanningService.Application.deps.json
+C:\Users\Charity\Desktop\WorkPlanService\WorkingPlanning\WorkPlanningService\WorkPlanningService.Application\bin\Debug\net6.0\WorkPlanningService.Application.dll
+C:\Users\Charity\Desktop\WorkPlanService\WorkingPlanning\WorkPlanningService\WorkPlanningService.Application\bin\Debug\net6.0\WorkPlanningService.Application.pdb
+C:\Users\Charity\Desktop\WorkPlanService\WorkingPlanning\WorkPlanningService\WorkPlanningService.Application\bin\Debug\net6.0\WorkPLanningService.Domain.dll
+C:\Users\Charity\Desktop\WorkPlanService\WorkingPlanning\WorkPlanningService\WorkPlanningService.Application\bin\Debug\net6.0\WorkPLanningService.Domain.pdb
+C:\Users\Charity\Desktop\WorkPlanService\WorkingPlanning\WorkPlanningService\WorkPlanningService.Application\obj\Debug\net6.0\WorkPlanningService.Application.csproj.AssemblyReference.cache
+C:\Users\Charity\Desktop\WorkPlanService\WorkingPlanning\WorkPlanningService\WorkPlanningService.Application\obj\Debug\net6.0\WorkPlanningService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charity\Desktop\WorkPlanService\WorkingPlanning\WorkPlanningService\WorkPlanningService.Application\obj\Debug\net6.0\WorkPlanningService.Application.AssemblyInfoInputs.cache
+C:\Users\Charity\Desktop\WorkPlanService\WorkingPlanning\WorkPlanningService\WorkPlanningService.Application\obj\Debug\net6.0\WorkPlanningService.Application.AssemblyInfo.cs
+C:\Users\Charity\Desktop\WorkPlanService\WorkingPlanning\WorkPlanningService\WorkPlanningService.Application\obj\Debug\net6.0\WorkPlanningService.Application.csproj.CoreCompileInputs.cache
+C:\Users\Charity\Desktop\WorkPlanService\WorkingPlanning\WorkPlanningService\WorkPlanningService.Application\obj\Debug\net6.0\WorkPlanningService.Application.csproj.CopyComplete
+C:\Users\Charity\Desktop\WorkPlanService\WorkingPlanning\WorkPlanningService\WorkPlanningService.Application\obj\Debug\net6.0\WorkPlanningService.Application.dll
+C:\Users\Charity\Desktop\WorkPlanService\WorkingPlanning\WorkPlanningService\WorkPlanningService.Application\obj\Debug\net6.0\refint\WorkPlanningService.Application.dll
+C:\Users\Charity\Desktop\WorkPlanService\WorkingPlanning\WorkPlanningService\WorkPlanningService.Application\obj\Debug\net6.0\WorkPlanningService.Application.pdb
+C:\Users\Charity\Desktop\WorkPlanService\WorkingPlanning\WorkPlanningService\WorkPlanningService.Application\obj\Debug\net6.0\ref\WorkPlanningService.Application.dll
